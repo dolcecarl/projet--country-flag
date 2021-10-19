@@ -1,0 +1,19 @@
+.acceuil-background{
+
+   
+    width:97%;
+    margin:45px auto;
+    height:630px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #fff;;
+    background-attachment: fixed;
+    padding: 20px;;
+   
+}
+
+.margin-background{
+
+    margin-bottom: 35px;
+}
